@@ -5,3 +5,14 @@ Customer ID
 Age, Gender, Location
 Transaction Frequency
 Total Spending, Product Categories, et
+Software Requirements:
+Python 3.8+
+Libraries:
+numpy
+pandas
+matplotlib (for visualization)
+scikit-learn (for preprocessing)
+miniSom (SOM implementation)
+Hardware Requirements:
+A machine with at least 4GB RAM for small datasets.
+For larger datasets, it is recommended to have 8GB RAM or more.
